@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wumpus Jump - Rechtliches</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            line-height: 1.6; 
+            max-width: 700px; 
+            margin: 40px auto; 
+            padding: 0 20px; 
+            color: #333; 
+            background-color: #f9f9f9;
+        }
+        .container { 
+            background: white; 
+            padding: 30px; 
+            border-radius: 12px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+        }
+        h1 { color: #5a3e1b; border-bottom: 2px solid #f5e6c8; padding-bottom: 10px; }
+        h2 { color: #8b6a3a; margin-top: 30px; }
+        h3 { font-size: 1.1rem; color: #444; }
+        p, li { font-size: 0.95rem; color: #555; }
+        hr { border: 0; height: 1px; background: #eee; margin: 40px 0; }
+        .back-link { display: inline-block; margin-bottom: 20px; color: #8b6a3a; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Rechtliche Informationen</h1>
+        <p>Informationen zu Nutzungsbedingungen und Datenschutz für die Discord Activity <strong>Wumpus Jump</strong>.</p>
+
+        <hr>
+
+        <section>
+            <h2>Nutzungsbedingungen (ToS)</h2>
+            <p>Zuletzt aktualisiert: 11. März 2026</p>
+            <h3>1. Annahme der Bedingungen</h3>
+            <p>Mit der Nutzung von Wumpus Jump akzeptierst du diese Bedingungen. Die Anwendung dient ausschließlich privaten Unterhaltungszwecken.</p>
+            <h3>2. Haftung</h3>
+            <p>Wir übernehmen keine Haftung für Schäden, die durch die Nutzung der App entstehen könnten. Das Spiel wird "wie besehen" bereitgestellt.</p>
+            <h3>3. Geistiges Eigentum</h3>
+            <p>Alle Spielgrafiken und Codes sind Eigentum des Erstellers. Eine kommerzielle Nutzung ohne Zustimmung ist untersagt.</p>
+        </section>
+
+        <hr>
+
+        <section>
+            <h2>Datenschutzerklärung</h2>
+            <h3>1. Keine Datenerfassung</h3>
+            <p>Wumpus Jump sammelt <strong>keine</strong> personenbezogenen Daten. Wir speichern keine Discord-IDs, Namen oder E-Mails.</p>
+            <h3>2. Lokale Speicherung</h3>
+            <p>Highscores werden nur lokal in deinem Browser (LocalStorage) gespeichert. Sobald du deinen Browser-Cache leerst, können diese Daten gelöscht sein.</p>
+            <h3>3. Hosting</h3>
+            <p>Die Seite wird auf Netlify gehostet. Netlify kann technische Log-Daten erfassen, auf die wir keinen Zugriff haben, um die Sicherheit der Seite zu gewährleisten.</p>
+        </section>
+
+        <footer style="margin-top: 50px; font-size: 0.8rem; color: #999; text-align: center;">
+            &copy; 2026 Wumpus Jump
+        </footer>
+    </div>
+
+</body>
+</html>
